@@ -1,16 +1,21 @@
-### Hi there 👋
+Hi 👋 My name is Moreira
+==========================
 
-<!--
-**gmoreira012/gmoreira012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Analista de Suporte técnico
+-----------------------------
 
-Here are some ideas to get you started:
+I'm 24 years old and I love technology and I love solving technical problems and I always give my best for the user.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I have 3 technical courses and I want to go back to college to gain more knowledge
+
+* 🌍  I'm based in São José Dos Campos, Brazil
+* ✉️  You can contact me at (gustavo.moreira@grupocard.com.br)
+* 🚀  I currently work at Grupocard as a technical support analyst
+* 🧠  I'm learning programming for the first time with my manager Fabiano Conrado
+* 🤝  I am open to receive a lot of knowledge in this world of programming
+* ⚡  I love sports and my favorite team is Corinthians
+
+
+
+
+
